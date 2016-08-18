@@ -1,0 +1,20 @@
+{
+  "name": "imagesearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/dickorydock/imagesearch.git"
+  },
+  "author": "Dickory Dock",
+  "license": "ISC",
+  "dependencies": {
+    "imgur": "^0.1.7",
+    "json": "^9.0.4",
+    "request": "^2.74.0"
+  }
+}
